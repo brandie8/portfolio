@@ -1,0 +1,63 @@
+*{
+   background-color:darksalmon;
+
+   
+   font-family: "Fjalla One", sans-serif;
+   
+   
+}
+h1{
+    font-size: 70px;
+    color:black;
+}
+h2{
+  font-size: 50px;
+  color:black;
+  text-align: center;
+  text-transform:uppercase;
+}
+h3{
+  font-size:30px;
+  text-decoration:underline;
+  color:black;
+}
+p{
+  font-size: 30px;
+  color:navy;
+}
+footer{
+    text-align:center;
+    color:black;
+}
+.contact-details {
+    font-size: 18px;
+    
+  }
+ul{
+  list-style: none;  
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color:navy;
+  text-align: center;
+  padding: 22px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color:blanchedalmond;
+}
+
+h4{
+  color:black;
+}
